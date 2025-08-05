@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Home</title>
-    <link>https://matthewrobinsondev.github.io/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Home</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 19 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://matthewrobinsondev.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How-To</title>
-      <link>https://matthewrobinsondev.github.io/tags/how-to/</link>
+      <link>http://localhost:1313/tags/how-to/</link>
       <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://matthewrobinsondev.github.io/tags/how-to/</guid>
+      <guid>http://localhost:1313/tags/how-to/</guid>
       <description></description>
     </item>
     <item>
       <title>Just-Build-It</title>
-      <link>https://matthewrobinsondev.github.io/tags/just-build-it/</link>
+      <link>http://localhost:1313/tags/just-build-it/</link>
       <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://matthewrobinsondev.github.io/tags/just-build-it/</guid>
+      <guid>http://localhost:1313/tags/just-build-it/</guid>
       <description></description>
     </item>
   </channel>

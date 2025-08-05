@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Just-Build-It on Home</title>
-    <link>https://matthewrobinsondev.github.io/tags/just-build-it/</link>
+    <link>http://localhost:1313/tags/just-build-it/</link>
     <description>Recent content in Just-Build-It on Home</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 19 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://matthewrobinsondev.github.io/tags/just-build-it/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/just-build-it/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Making an AwesomeWM Widget</title>
-      <link>https://matthewrobinsondev.github.io/posts/how-to-make-an-awesomewm-widget/</link>
+      <link>http://localhost:1313/posts/how-to-make-an-awesomewm-widget/</link>
       <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://matthewrobinsondev.github.io/posts/how-to-make-an-awesomewm-widget/</guid>
+      <guid>http://localhost:1313/posts/how-to-make-an-awesomewm-widget/</guid>
       <description></description>
     </item>
   </channel>
